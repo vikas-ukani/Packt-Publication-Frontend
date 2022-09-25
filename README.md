@@ -14,6 +14,8 @@ Pacakges and Versions
 
 This project is responsible for handling eBooks Data and fetching from RestAPI from backend and map with UI in order to show the categories and it's books list and book detail page.
 
+- Single Page Application
+- Responsive UX
 - Data Fetching
 - Data Binding 
 - Categories Page
