@@ -32,12 +32,12 @@ const BookDetails = () => {
 
     return (
         <>
-            <div class="py-16 px-4 md:px-6 2xl:px-0 2xl:mx-auto 2xl:container flex justify-center items-center">
-                <div class="flex justify-between items-center w-full">
-                    <div class="flex flex-col justify-start items-start">
-                        <p class="text-sm leading-none text-gray-600">Home - Books</p>
-                        <div class="mt-2 flex flex-row justify-end items-center space-x-3">
-                            <p class="text-2xl font-semibold leading-normal text-gray-800">
+            <div className="py-16 px-4 md:px-6 2xl:px-0 2xl:mx-auto 2xl:container flex justify-center items-center">
+                <div className="flex justify-between items-center w-full">
+                    <div className="flex flex-col justify-start items-start">
+                        <p className="text-sm leading-none text-gray-600">Home - Books</p>
+                        <div className="mt-2 flex flex-row justify-end items-center space-x-3">
+                            <p className="text-2xl font-semibold leading-normal text-gray-800">
                                 {book?.title}
                             </p>
                         </div>
