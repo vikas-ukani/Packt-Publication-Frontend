@@ -47,6 +47,11 @@ cp .env.example .env
 npm install 
 ```
 
+### Run The development server
+```
+npm run dev
+```
+
 - It will run the development server in port 3000
 ```
 http://localhost:3000
